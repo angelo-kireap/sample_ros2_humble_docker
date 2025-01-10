@@ -1,6 +1,3 @@
-Here's the updated README with the `cd docker_scripts/` step included:
-
----
 
 # Sample ROS2 Humble Docker
 
