@@ -10,6 +10,11 @@ Follow the steps below to set up and run the Docker container:
 ### Prerequisites
 - Install Docker on your system. Refer to the [Docker installation guide](https://docs.docker.com/get-docker/) for detailed instructions.
 
+### Creating Working Directory
+```bash
+ mkdir workspace && mkdir workspace/src
+```
+
 ### Build the Docker Image
 ```bash
 docker build -t sample_ros2_docker .
